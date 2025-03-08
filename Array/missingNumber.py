@@ -10,3 +10,4 @@ class Solution:
                 return v-1
             if v==len(nums)-1:
                 return v+1 
+
